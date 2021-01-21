@@ -80,5 +80,3 @@ colorization_ckpt:
 streamlit run demo.py
  ```
 
-
- 
