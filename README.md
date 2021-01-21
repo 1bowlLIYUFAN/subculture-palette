@@ -1,4 +1,4 @@
-# subculture-palette
+# Subculture-Palette
 Palette Generation and Colorization for Youth Subculture in China
 
 This project includes 1 dataset (image-palette-text dataset for youth subculture in China) and 2 jupyter notebook file (one for subcultural palette generation and another one for colorization).
