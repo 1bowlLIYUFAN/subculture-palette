@@ -6,9 +6,11 @@ This project includes 1 dataset (image-palette-text dataset for youth subculture
 
 ## Image-palette-text dataset for youth subculture in China
 
-![dataset](pic/dataset.jpg)
+
 
 ![data prepare](pic/dataset_str.jpg)
+
+Find the dataset in the folder './dataset'
 
 
 ## Framework: palette generation and colorization
@@ -28,3 +30,8 @@ colorization.ipynb
 ## Demo
 
 ![demo](pic/demo.jpg)
+
+### run demo:
+ ```python
+streamlit run demo.py
+ ```
