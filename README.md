@@ -21,6 +21,7 @@ There are two main model in this framework: palette generation model and coloriz
 
 palette_gen_training.ipynb
 
+colorization.ipynb
 
 
 
